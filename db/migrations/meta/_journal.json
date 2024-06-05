@@ -1,0 +1,34 @@
+{
+  "version": "6",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1715956867121,
+      "tag": "0000_cooing_celestials",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1715981068115,
+      "tag": "0001_early_the_anarchist",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1716649334534,
+      "tag": "0002_flashy_susan_delgado",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1717590403063,
+      "tag": "0003_thankful_wildside",
+      "breakpoints": true
+    }
+  ]
+}
